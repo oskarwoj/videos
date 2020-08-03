@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instruction:
 
-![Example usage gif](https://raw.githubusercontent.com/oskarwoj/todo_list/master/images/app_screen.gif)
+![Example usage gif](https://github.com/oskarwoj/videos/blob/master/src/app_screen.gif)
 
 ## Used technologies:
 
